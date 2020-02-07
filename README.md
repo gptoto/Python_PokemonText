@@ -4,7 +4,7 @@
 
 From the shell (in PokemonText folder) :
 
--> python main.py
+-> use python "main.py" to play
 
 Modules to install :
 
