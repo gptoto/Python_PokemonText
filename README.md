@@ -1,11 +1,9 @@
-# Python_PokemonText
-
---------------- 
-
 From the shell (in PokemonText folder) :
 
--> use python "main.py" to play
+-> python main.py
 
-Modules to install :
+---
+
+Modules to install : 
 
 -> keyboard
