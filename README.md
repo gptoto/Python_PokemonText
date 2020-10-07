@@ -5,7 +5,7 @@
 L'application "Pokémon Text" se rapproche de l'expérience des jeux Pokémons via des fonctionnalités bien connues mais sans l'aspect graphique. 
 A partir du menu, il est possible de Combattre des Pokémons, les capturer ou encore acheter des objets à la boutique :
 
-<img src="../MainScreen.PNG"/>
+<img src="MainScreen.PNG"/>
 
 ## Liens
 
