@@ -24,7 +24,6 @@ Le jeu peut se lancer si Python est déjà installé sur votre machine et si ce 
 Lancement du jeu (dans le dossier du projet): 
 	py main.py
 
-
 ## Configuration avancée
 
 > L'application fonctionne sans lien avec une base.
