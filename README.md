@@ -22,7 +22,7 @@ Le jeu peut se lancer si Python est déjà installé sur votre machine et si ce 
 <img src="https://pythonfaqfr.readthedocs.io/en/latest/_images/advanced_features.png"/>
 
 Lancement du jeu (dans le dossier du projet): 
-	py main.py
+	'py main.py'
 
 ## Configuration avancée
 
