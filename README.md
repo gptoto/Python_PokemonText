@@ -28,9 +28,9 @@ py main.py
 
 ## Configuration avancée
 
-> L'application fonctionne sans lien avec une base.
+Notez que l'application fonctionne sans lien avec une base.
 
-> Ne pas oublier d'importer la bibliothèque relative aux saisies clavier : 
+Pour pouvoir faire fonctionner le projet, n'oubliez pas d'importer la bibliothèque relative aux saisies clavier : 
 ```
 Import Keyboard
 ```
